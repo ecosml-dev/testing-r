@@ -1,0 +1,10 @@
+Package: testingr
+Title: testingr
+Version: 0.0.1
+Authors@R: person("jrmerz", "", email = "",
+                  role = c("aut", "cre"))
+Description: this is a test, this is only a test
+Depends: R (>= 3.1.0)
+License: MIT
+LazyData: true
+RoxygenNote: 6.1.0
